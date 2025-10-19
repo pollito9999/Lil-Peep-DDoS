@@ -1,8 +1,12 @@
-# Fsociety DDoS GUI
+# Lil Peep DDoS GUI
 
-Fsociety DDoS GUI is an application for performing simple Distributed Denial of Service (DDoS) attacks using PyQt5 as a graphical user interface (GUI) and Requests to send HTTP requests to the target. This application allows users to configure the number of requests, stealth mode, proxy usage, and display attack logs in the GUI.
+Lil Peep DDoS GUI is an application for performing simple Distributed Denial of Service (DDoS) attacks using PyQt5 as a graphical user interface (GUI) and Requests to send HTTP requests to the target. This application allows users to configure the number of requests, stealth mode, proxy usage, and display attack logs in the GUI.
 
-## DEVELOPER: PYSCODES
+## DEVELOPER: UNKNOWN
+
+## SCREENSHOOT
+<img width="608" height="721" alt="Screenshot 2025-10-19 171847" src="https://github.com/user-attachments/assets/e7414e25-612b-4bf7-b506-d5495601d39a" />
+
 
 ## Features 🚀
 
@@ -41,14 +45,14 @@ This application supports multiple operating systems and requires some Python de
 2. **Clone the repository**:
    
    ```bash
-   git clone https://github.com/username/fsociety-ddos-gui.git
-   cd fsociety-ddos-gui
+   git clone https://github.com/pollito9999/Lil-Peep-DDoS.git
+   cd Lil-Peep-DDoS
    ```
 
 4. **Run the application**:
    
    ```bash
-   python3 Fsociety-Ddos.py
+   python3 FsocietyDDoS.py
    ```
 
 ## Usage 🛠️
