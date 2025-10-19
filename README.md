@@ -7,6 +7,8 @@ Lil Peep DDoS GUI is an application for performing simple Distributed Denial of 
 ## SCREENSHOOT
 <img width="608" height="721" alt="Screenshot 2025-10-19 171847" src="https://github.com/user-attachments/assets/e7414e25-612b-4bf7-b506-d5495601d39a" />
 
+## how this work
+https://github.com/user-attachments/assets/c61b7904-6004-477f-846d-6ef4a09ad249
 
 ## Features 🚀
 
