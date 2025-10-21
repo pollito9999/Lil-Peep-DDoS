@@ -1,6 +1,6 @@
 # Lil Peep DDoS GUI
 
-Lil Peep DDoS GUI is an application for performing simple Distributed Denial of Service (DDoS) attacks using PyQt5 as a graphical user interface (GUI) and Requests to send HTTP requests to the target. This application allows users to configure the number of requests, stealth mode, proxy usage, and display attack logs in the GUI.
+Lil Peep DDoS GUI is an application for performing simple Distributed Denial of Service (DDoS) attacks using PyQt5 as a graphical user interface (GUI) and Requests to send HTTP requests to the target. This application allows users to configure the number of requests, display attack logs in the GUI.
 
 ## DEVELOPER: UNKNOWN
 
