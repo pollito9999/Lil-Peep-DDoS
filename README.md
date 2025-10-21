@@ -13,8 +13,6 @@ https://github.com/user-attachments/assets/c61b7904-6004-477f-846d-6ef4a09ad249
 ## Features 🚀
 
 - **DDoS Attack**: Sends HTTP requests to the target URL repeatedly 🌐.
-- **Stealth Mode**: Uses different `User-Agent` headers to reduce detection 🕵️‍♂️.
-- **Proxy**: Option to use proxies automatically 🌍.
 - **Attack Logs**: Displays attack status, including successful or failed request counts, in the GUI 📜.
 
 ## Prerequisites ⚙️
@@ -23,9 +21,9 @@ This application supports multiple operating systems and requires some Python de
 
 ### Supported Operating Systems 💻
 
-- **Windows**: Fully supports Windows 10/11.
+- **Windows**: Fully supports Windows 10/11. (tutorial in another life)
 - **Linux**: Can run on Linux distributions such as Ubuntu, Kali Linux, and others.
-- **macOS**: Runs on macOS with Python 3.x.
+- **macOS**: Runs on macOS with Python 3.x. (tutorial in another life)
 
 ### Required Dependencies 📦
 
