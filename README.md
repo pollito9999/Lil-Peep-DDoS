@@ -44,8 +44,11 @@ This application supports multiple operating systems and requires some Python de
    git clone https://github.com/pollito9999/Lil-Peep-DDoS.git
    cd Lil-Peep-DDoS
    ```
-3. **Run the application**:
-    
+3. **Install the dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Run the application**:
    ```bash
    python FsocietyDDoS.py
    ```
