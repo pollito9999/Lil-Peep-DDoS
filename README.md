@@ -33,6 +33,22 @@ This application supports multiple operating systems and requires some Python de
 
 ## Installation Guide 🔧
 
+### On Windows 
+
+1. **Install Python**:
+   ```bash
+   https://www.python.org/downloads/
+   ```
+2. **Clone the repository**:
+   ```bash
+   git clone https://github.com/pollito9999/Lil-Peep-DDoS.git
+   cd Lil-Peep-DDoS
+   ```
+3. **Run the application**:
+    
+   ```bash
+   python FsocietyDDoS.py
+   ```
 ### On Linux 🐧
 
 1. **Install Python**:
@@ -49,7 +65,7 @@ This application supports multiple operating systems and requires some Python de
    cd Lil-Peep-DDoS
    ```
 
-4. **Run the application**:
+3. **Run the application**:
    
    ```bash
    python3 FsocietyDDoS.py
