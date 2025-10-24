@@ -21,9 +21,9 @@ This application supports multiple operating systems and requires some Python de
 
 ### Supported Operating Systems 💻
 
-- **Windows**: Fully supports Windows 10/11. (tutorial in another life)
+- **Windows**: Fully supports Windows 10/11.
 - **Linux**: Can run on Linux distributions such as Ubuntu, Kali Linux, and others.
-- **macOS**: Runs on macOS with Python 3.x. (tutorial in another life)
+- **macOS**: Runs on macOS with Python 3.x. (I don´t have MAC)
 
 ### Required Dependencies 📦
 
