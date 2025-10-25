@@ -39,16 +39,20 @@ This application supports multiple operating systems and requires some Python de
    ```bash
    https://www.python.org/downloads/
    ```
-2. **Clone the repository**:
+2. **Install GIT**:
+   ```bash
+   https://git-scm.com/install/windows
+   ```
+3. **Clone the repository**:
    ```bash
    git clone https://github.com/pollito9999/Lil-Peep-DDoS.git
    cd Lil-Peep-DDoS
    ```
-3. **Install the dependencies**:
+4. **Install the dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
-4. **Run the application**:
+5. **Run the application**:
    ```bash
    python FsocietyDDoS.py
    ```
