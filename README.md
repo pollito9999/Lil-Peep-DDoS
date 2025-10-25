@@ -56,6 +56,10 @@ This application supports multiple operating systems and requires some Python de
    ```bash
    python FsocietyDDoS.py
    ```
+   **TUTORIAL IF U ARE STUPID**:
+   ```bash
+   https://youtu.be/SqZcBN1w1iQ?si=dymVnkINtmHCWkjU
+   ```
 ### On Linux 🐧
 
 1. **Install Python**:
